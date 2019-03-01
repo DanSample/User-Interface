@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 a {
-	color: gray;
+	color: rgb(112, 112, 112);
 	text-decoration: none;
 	padding-left: 25px;
 	padding-right: 25px;
