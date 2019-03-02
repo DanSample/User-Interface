@@ -77,14 +77,13 @@ a {
 #intro {
 	width: 90%;
 	text-align: center;
-	margin: 20px;
 	border-bottom: 0.25px solid black;
 	display: inline-block;
 }
 
 .catchphrase, .codepic {
 	width: 200px;
-	margin: 0px 90px 0px 90px;
+	
   	padding: 20px;
     text-align: middle;
 	vertical-align: middle;
@@ -155,6 +154,6 @@ h2 {
 }
 
 .copyright {
-	width: 100%;
+	width: 90%;
 	text-align: center;
 }
