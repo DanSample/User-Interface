@@ -111,12 +111,50 @@ button {
 	display: inline-block;
 }
 
+h2 {
+	font-weight: bold; 
+}
+
 .features {
+	margin-left: 30px;
+	width: 90%;
 	display: inline-block;
 }
 
-.features p {
-	width: 300px;
+.feat, .bout {
+	width: 40%;
+  	padding: 20px;
+    text-align: middle;
+	vertical-align: middle;
 	display: inline-block;
-	position: relative;
+}
+
+.middle-img {
+	margin-left: 47px;
+	margin-bottom: 20px; 
+}
+
+.servicesection {
+	width: 90%;
+	display: inline-block;
+	border-bottom: 0.25px solid black; 
+}
+
+.service, .product, .vision {
+	margin-left: 30px;
+	width: 25%;
+	padding: 20px;
+	text-align: middle;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.contact {
+	margin: 40px 0px 20px 45px;
+	width: 200px;
+}
+
+.copyright {
+	width: 100%;
+	text-align: center;
 }
